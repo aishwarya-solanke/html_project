@@ -525,7 +525,7 @@ header {
 }
 
 /* ---------- MEDIA QUERY FOR 320px SCREENS ---------- */
-@media (max-width: 320px) {
+@media (max-width:600px) {
   body {
     overflow-x: hidden;
   }
